@@ -1,7 +1,5 @@
-# =================================================
-# Script: MAIC_glm.R, October 5, 2026
-# Version: v1.0.0, October 5, 2026
-# =================================================
+* **Script:** MAIC_glm.R, October 5, 2026
+* **Version:** v1.0.0, October 5, 2026
 
 # MAIC for Generalized Linear Models
  
