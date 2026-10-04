@@ -1,6 +1,8 @@
-# MAIC_glm
-MAIC GLM,  1st Upload 2026 Oct. 02
--------------------------------------
+# =================================================
+# Script: MAIC_glm.R, October 5, 2026
+# Version: v1.0.0, October 5, 2026
+# =================================================
+
 # MAIC for Generalized Linear Models
  
 This repository provides an R function for calculating the Modified Akaike
